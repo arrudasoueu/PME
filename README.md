@@ -1,6 +1,6 @@
 # Pedal Multi Effects (PME)
 
-A virtual multi-effects pedalboard developed in Pure Data.
+A virtual multi-effects pedalboard developed in Pure Data for musical improvisation.
 
 Created as a study project in Music and Technology, exploring digital signal processing, sound synthesis, musical interfaces, and MIDI control.
 
