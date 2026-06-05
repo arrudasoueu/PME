@@ -1,19 +1,19 @@
 # Pedal Multi Effects (PME)
 
-Virtual pedalboard developed in Pure Data featuring multiple audio processing effects.
+A virtual multi-effects pedalboard developed in Pure Data.
 
-This project was created as a study project for Music and Technology courses, exploring digital signal processing, sound synthesis, musical interfaces, and MIDI control.
+Created as a study project in Music and Technology, exploring digital signal processing, sound synthesis, musical interfaces, and MIDI control.
 
 ## Effects
 
 * Reverb
-* Feedback Delay
+* Delay with Feedback
 * Chorus
 * Plate Reverb
 
 ## Features
 
-* Independent effect on/off control
+* Independent on/off control for each effect
 * Presets for selected modules
 * Keyboard control
 * MIDI parameter mapping
@@ -29,4 +29,4 @@ This project was created as a study project for Music and Technology courses, ex
 
 ## License
 
-Released under the MIT License. See the `LICENSE` file for more information.
+Released under the MIT License. See the `LICENSE` file for details.
